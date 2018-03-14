@@ -1,0 +1,1 @@
+chmod +x bbr.sh && ./bbr.sh
