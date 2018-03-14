@@ -1,5 +1,13 @@
 # ssr 服务器一键搭建脚本
 
+使用docker部署ssr
+
+参考 https://github.com/starriv/docker-ssr
+
+整合相关的shell命令
+增加查看链接信息脚本
+
+
 clone 本项目
 ```
 git clone https://github.com/jkoChen/ssr-build.git
