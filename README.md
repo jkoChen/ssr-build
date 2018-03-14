@@ -29,6 +29,9 @@ chmod +x bbr-install.sh
 重启服务器
 
 安装ssr
+打开Dockerfile
+修改其中的端口、密码、协议等参数
+
 ```
 chmod +x build.sh
 ./build.sh
