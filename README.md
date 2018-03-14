@@ -26,6 +26,8 @@ chmod +x bbr-install.sh build.sh link_info.sh
 chmod +x bbr-install.sh
 ./bbr-install.sh
 ```
+重启服务器
+
 安装ssr
 ```
 chmod +x build.sh
